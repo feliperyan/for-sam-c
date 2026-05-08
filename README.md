@@ -1,10 +1,4 @@
-# sam-cooke
-
-An exploration of Cloudflare's developer platform primitives: Containers, R2, and Dynamic Workers, using React server-side rendering as the demonstration workload.
-
----
-
-## What this project does
+# What this project does
 
 A Cloudflare Worker routes incoming requests to one of two rendering paths:
 
